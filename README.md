@@ -1,9 +1,1 @@
-# cqrs-py
-CQRS - command query responsibility segregation pattern
-
-Zero-dependency Python CLI tool.
-
-## Usage
-```bash
-python3 cqrs.py
-```
+# cqrs-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 cqrs.py\n```\n
